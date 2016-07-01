@@ -1,0 +1,5 @@
+rd /s /q "tmp"
+rd /s /q "node_modules"
+rd /s /q "bower_components"
+rd /s /q "dist"
+md "dist"

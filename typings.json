@@ -1,0 +1,22 @@
+{
+    "globalDevDependencies": {
+        "angular-protractor": "registry:dt/angular-protractor#1.5.0+20160425143459",
+        "jasmine": "registry:dt/jasmine#2.2.0+20160412134438",
+        "selenium-webdriver": "registry:dt/selenium-webdriver#2.44.0+20160317120654"
+    },
+    "globalDependencies": {
+        "es6-shim": "registry:dt/es6-shim#0.31.2+20160317120654",
+        "lodash": "registry:global/lodash#4.0.0+20160412191414",
+        "three": "github:DefinitelyTyped/DefinitelyTyped/threejs/three.d.ts#c6c3d3e65dd2d7035428f9c7b371ec911ff28542",
+        "three-detector": "github:DefinitelyTyped/DefinitelyTyped/threejs/three-effectcomposer.d.ts#48f20e97bfaf70fc1a9537b38aed98e9749be0ae",
+        "three-effectscomposer": "github:DefinitelyTyped/DefinitelyTyped/threejs/detector.d.ts#48f20e97bfaf70fc1a9537b38aed98e9749be0ae",
+        "three-orbitcontrol": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/master/threejs/three-orbitcontrols.d.ts",
+        "three-projector": "github:DefinitelyTyped/DefinitelyTyped/threejs/three-projector.d.ts#48f20e97bfaf70fc1a9537b38aed98e9749be0ae",
+        "three-shaderpass": "github:DefinitelyTyped/DefinitelyTyped/threejs/three-shaderpass.d.ts#ee05b1163d8da7f16719f08d52f70ab524f1003a",
+        "three-trackball": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/master/threejs/three-trackballcontrols.d.ts",
+        "three-trackballorthocontrol": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/master/threejs/three-orthographictrackballcontrols.d.ts"
+    },    
+    "dependencies": {
+      "lodash": "registry:npm/lodash#4.0.0+20160416211519"
+    }
+}
